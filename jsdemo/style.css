@@ -8,3 +8,7 @@ div.user div {
 div.user.selected {
     background-color: greenyellow;
 }
+title{
+    color: green;
+    font-size: 20px;
+}
